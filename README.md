@@ -1,12 +1,8 @@
-# GETTING STARTED WITH RASPBERRY PI
-
-> [!IMPORTANT]
-> **There are a lot of projects in this repo so look at the differents branchs !**
-
 # Raspberry Pi Master Repository  
 
 Welcome to the **Raspberry Pi Master Repository**! 🎉  
-This repository is a centralized location for all Raspberry Pi-related projects and guides. Below is an overview of the repository structure to help you navigate effectively.  
+> [!IMPORTANT]
+> This repository is a centralized location for all Raspberry Pi-related projects and guides. Below is an overview of the repository structure to help you navigate effectively.  
 
 ---
 
@@ -41,4 +37,25 @@ main/
     ├── medias/              # Images and resources for Raspberry Pi projects
     ├── components/          # List of accessories used (e.g., cameras, displays)
     └── examples/            # Examples of tested and validated projects
+
+develop/
+├── Pico/
+│   ├── README.md            # Provisional introduction for Pico
+│   ├── getting-started.md   # Draft of the getting-started guide
+│   ├── medias/              # Files related to new projects under testing
+│   ├── components/          # New components or updates to existing ones
+│   └── drafts/              # Projects or tutorials not yet finalized
+├── JoyPi/
+│   ├── README.md            # Provisional introduction for JoyPi
+│   ├── getting-started.md   # Improvements or drafts in progress
+│   ├── medias/              # New schematics or resources for testing
+│   ├── components/          # Prototypes of descriptions for new components
+│   └── drafts/              # Ideas or projects under testing
+└── RaspberryPi/
+    ├── README.md            # Provisional version for Raspberry Pi
+    ├── getting-started.md   # Modifications or drafts in progress
+    ├── medias/              # Temporary files related to tests
+    ├── components/          # Documentation for new components
+    └── drafts/              # Tests for projects or guides
+
 ```
