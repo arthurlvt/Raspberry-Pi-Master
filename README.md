@@ -37,7 +37,12 @@ main/
     ├── medias/              # Images and resources for Raspberry Pi projects
     ├── components/          # List of accessories used (e.g., cameras, displays)
     └── examples/            # Examples of tested and validated projects
+```
 
+### **Develop Branch (`develop/`)**  
+This branch contains drafts and projects in progress.  
+
+```plaintext
 develop/
 ├── Pico/
 │   ├── README.md            # Provisional introduction for Pico
