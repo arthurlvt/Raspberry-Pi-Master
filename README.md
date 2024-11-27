@@ -15,9 +15,9 @@ This branch contains stable and polished content, ready for use.
 main/
 ├── README.md                # Overview of the repository and navigation between folders/branches
 ├── resources/               # Shared resources
-│   ├── installation-thonny.md   # Guide to set up Thonny IDE
-│   ├── git-guide.md             # Instructions on cloning and navigating the repository with Git
-│   └── troubleshooting.md       # FAQ and solutions for common issues
+│   ├── installation-thonny.md  # Guide to set up Thonny IDE
+│   ├── git-guide.md            # Instructions on cloning and navigating the repository with Git
+│   └── troubleshooting.md      # FAQ and solutions for common issues
 ├── CONTRIBUTING.md          # Instructions on how to contribute to the repository
 ├── Pico/                    # Section dedicated to the Raspberry Pi Pico
 │   ├── README.md            # General introduction for Pico projects
